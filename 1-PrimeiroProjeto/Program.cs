@@ -11,6 +11,7 @@ namespace _1_PrimeiroProjeto
             Console.WriteLine("A execusão acabou. Tecle enter para finalizar...");
 
             Console.ReadLine();
+            Console.ReadLine();
         }
     }
 }
